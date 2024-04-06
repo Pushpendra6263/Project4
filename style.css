@@ -7,22 +7,22 @@
 
 @font-face {
     font-family: vibes;
-    src: url(./fonts/GreatVibes-Regular.ttf);
+    src: url(./fonts/GreatVibes-Regular.woff2);
 }
 
 @font-face {
     font-family: abc;
-    src: url(./fonts/Garineldo.otf);
+    src: url(./fonts/Garineldo.woff2);
 }
 
 @font-face {
     font-family: huruf;
-    src: url(./fonts/Huruf\ Miranti.ttf);
+    src: url(./fonts/Huruf\ Miranti.woff2);
 }
 
 @font-face {
     font-family: manj;
-    src: url(./fonts/Manjari-Bold.ttf);
+    src: url(./fonts/Manjari-Bold.woff2);
 }
 
 * {
