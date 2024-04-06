@@ -5,20 +5,6 @@
 * Browsers: last 4 version
 */
 
-@font-face {
-    font-family: vibes;
-    src: url(./fonts/GreatVibes-Regular.woff2);
-}
-
-@font-face {
-    font-family: abc;
-    src: url(./fonts/Garineldo.woff2);
-}
-
-@font-face {
-    src: url(./fonts/Huruf\ Miranti.woff2);
-    font-family: huruf;
-}
 
 @font-face {
     font-family: manj;
@@ -26,7 +12,7 @@
 }
 @font-face {
     font-family: gilroy;
-    src: url(./fonts/GILROY-LIGHT.OTF);
+    src: url(./fonts/GILROY-LIGHT.woff2);
 }
 
 * {
@@ -72,8 +58,8 @@ body {
 #nav-bar h1 {
     /* font-size: 33px; */
     font-size: 5vmin;
-    font-family: gil;
-    font-weight: 900;
+    font-family: manj;
+    font-weight: 500;
 }
 
 #nav-bar h1 span {
@@ -284,6 +270,7 @@ body {
 #page1 #p1-text p {
     width: 70%;
     margin-bottom: 50px;
+    font-family: gilroy;
 }
 
 #page1 #p1-text #p1-btn {
@@ -989,7 +976,7 @@ body {
 
     #nav-bar h1 {
         font-size: 26px;
-        font-family: gil;
+        font-family: gilroy;
         font-weight: 900;
     }
 
