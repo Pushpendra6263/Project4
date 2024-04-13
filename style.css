@@ -1306,7 +1306,7 @@ body {
 
 
     #page4 {
-        height: 160vh;
+        height: 150vh;
     }
 
     #page4 #p4-top #p4-text h1 {
@@ -1349,13 +1349,16 @@ body {
     #page4 #p4-top {
         height: 18%;
     }
-
-    #page4 #p4-mid .products {
-        margin: 0px 10px;
-        height: 190px;
-        width: 165px;
+    #page4 #p4-mid {
+        height: 70%;
+        width: 100%;
     }
 
+    #page4 #p4-mid .products {
+        margin: 0px 6px;
+        height: 180px;
+        width: 156px;
+    }
     #page4 #p4-mid .products .hidden-div h4 {
         font-size: 15px;
         text-align: center;
@@ -1386,7 +1389,7 @@ body {
 
 
     #page5 {
-        height: 110vh;
+        height: 100vh;
         width: 100%;
         display: -webkit-box;
         display: -ms-flexbox;
@@ -1397,9 +1400,8 @@ body {
                 flex-direction: column;
         padding: 0px 10px;
     }
-
     #page5 #p5-left {
-        height: 55%;
+        height: 50%;
         width: 100%;
     }
 
@@ -1426,7 +1428,7 @@ body {
 
     #page5 #p5-right {
         padding: 0px 0px 0px 0px;
-        height: 45%;
+        height: 40%;
         width: 100%;
         display: -webkit-box;
         display: -ms-flexbox;
